@@ -12,7 +12,7 @@
 <h3 align="left">My stats</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realion033&show_icons=true&locale=en&layout=compact" alt="realion033" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realion033&show_icons=true&locale=en" alt="realion033" /></p><br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realion033&show_icons=true&locale=en&count_private=true" alt="realion033" /></p><br>
 <h3 align="left">Welcome to my Farm!</h3>
 <a href="https://github.com/devxb/gitanimals">
 <img
