@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Realion033</h1>
-<h3 align="center">HA HA HA I'll be Dinosour!</h3>
+<h3 align="center">I want GF</h3>
 
 <p align="left"> <h3>"Hello viewers!"</h3> <img src="https://komarev.com/ghpvc/?username=realion033&label=Profile%20views&color=0e75b6&style=flat" alt="realion033" /> </p><br>
 <h3 align="left">Connect with me</h3>
