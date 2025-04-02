@@ -4,6 +4,10 @@
 </div>
 <div>
   <h2 align="center">My Stat</h2>
+  <img src="https://img.shields.io/badge/C++-⭐⭐⭐-yellow">
+</div>
+<div>
+  <h2 align="center">My Stat</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=realion033&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realion033&layout=compact&theme=dracula">
 </div>
