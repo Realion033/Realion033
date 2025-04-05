@@ -4,7 +4,6 @@
 </div>
 <div>
   <h2 align="center">My Stat</h2>
-  <img src="https://img.shields.io/badge/C++-⭐⭐⭐-yellow">
 </div>
 <div>
   <h2 align="center">My Stat</h2>
