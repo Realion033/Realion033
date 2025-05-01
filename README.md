@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=realion033&label=Profile%20views&color=0e75b6&style=flat" alt="realion033"/>
 </div>
 <div>
-  <h2 align="left">✏️Studied & Stat</h2>
+  <h2 align="left">✏️Studying..</h2>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/unreal-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
   <img src="https://img.shields.io/badge/c%23-%23632CA6.svg?style=for-the-badge&logo=csharp&logoColor=white">
@@ -17,4 +17,4 @@
   <br><br><img src="https://github-readme-stats.vercel.app/api?username=realion033&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realion033&layout=compact&theme=dracula">
 </div><br>
-<h4>#TralaleroTralala #ViscaBarca #Developer #HatePython #2번째줄스택은공부중</h4>
+<h4>#TralaleroTralala #ViscaBarca #Developer #HatePython #BasicServerKnowledge</h4>
