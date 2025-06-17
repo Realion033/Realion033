@@ -18,4 +18,4 @@
   <br><br><img src="https://github-readme-stats.vercel.app/api?username=realion033&show_icons=true&theme=dracula">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realion033&layout=compact&theme=dracula">
 </div><br>
-<h4>#TralaleroTralala #ViscaBarca #Developer #HatePython #BasicServerKnowledge</h4>
+<h4>#BasicServerKnowledge #TralaleroTralala #ViscaBarca #Developer #MinecraftPro</h4>
