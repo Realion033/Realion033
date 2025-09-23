@@ -1,7 +1,8 @@
 <div align="left">
-  <h1>🧐게임개발지망생 진짜정민입니다.</h1>
+  <h1><i>Start small, but dream big.</i></h1>
   <img src="https://komarev.com/ghpvc/?username=realion033&label=Profile%20views&color=0e75b6&style=flat" alt="realion033"/>
 </div>
+<!--
 <div>
   <h2 align="left">✏️Studying...</h2>
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white">
@@ -19,3 +20,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=realion033&layout=compact&theme=dracula">
 </div><br>
 <h4>#BasicServerKnowledge #TralaleroTralala #ViscaBarca #Developer #MinecraftPro</h4>
+-->
