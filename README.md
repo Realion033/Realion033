@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/DaVinci%20Resolve-1F2024?style=flat&logo=davinciresolve&logoColor=blue"/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-
+    <img src="https://img.shields.io/badge/DaVinci%20Resolve-1F2024?style=flat&logo=davinciresolve&logoColor=blue"/>
+    <img src="https://img.shields.io/badge/FL_Studio-FF7F00?style=flat&logo=fl-studio&logoColor=white"/>
   </p>
